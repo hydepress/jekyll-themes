@@ -1,5 +1,5 @@
 ---
-title: Jekyll Starter Theme - Minimial
+title: Henry's Jekyll Starter Theme - Minimial
 ---
 
 A minimalistic Jekyll starter theme for "classic" web sites (e.g. just some web pages)
