@@ -1,5 +1,5 @@
 ---
-title: "Elle Kasais's Resume Cards"
+title: "Elle Kasai's Resume Cards"
 ---
 
 ResumeCards is a Markdown based resume generator. It looks great on mobile/desktop and can be saved as PDF.
