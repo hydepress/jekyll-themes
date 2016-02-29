@@ -1,5 +1,5 @@
 ---
-title: Jekyll Bootstrap Theme
+title: Henry's Jekyll Bootstrap Theme
 ---
 
 Jekyll theme w/ Bootstrap; see a live demo @ [`henrythemes.github.io/jekyll-bootstrap-theme` »](http://henrythemes.github.io/jekyll-bootstrap-theme)
