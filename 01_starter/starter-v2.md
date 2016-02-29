@@ -87,6 +87,7 @@ a, a:visited {
 Use shared building blocks to split-up the all-in-one default master layout page e.g.:
 
 ``` html
+{% raw %}
 <!DOCTYPE html>
 <html>
 
@@ -104,6 +105,7 @@ Use shared building blocks to split-up the all-in-one default master layout page
 
 </body>
 </html>
+{% endraw %}
 ```
 
 In the new `_includes` folder, add the new building blocks e.g. `head.html`, `header.html`,
@@ -115,6 +117,7 @@ and `footer.html`.
 Instead of "hard-coding" the navigation menu e.g.:
 
 ``` html
+{% raw %}
 <div id="nav">
   <a href="{{ site.path }}/index.html">Welcome</a>
   <a href="{{ site.path }}/two.html">Page Two</a>
@@ -122,6 +125,7 @@ Instead of "hard-coding" the navigation menu e.g.:
   <a href="http://groups.google.com/group/wwwmake">Questions? Comments?</a>
   <a href="https://github.com/henrythemes/jekyll-starter-theme">About</a>
 </div>
+{% endraw %}
 ```
 
 Let's use a configuration / data block e.g.:
@@ -139,11 +143,13 @@ nav:
 And (auto-)build the navigation menu using a macro e.g.:
 
 ``` html
+{% raw %}
 <div id="nav">
 {% for item in site.nav %}
   <a href="{{ item.href}}">{{ item.title }}</a>
 {% endfor %}
 </div>
+{% endraw %}
 ```
 
 
