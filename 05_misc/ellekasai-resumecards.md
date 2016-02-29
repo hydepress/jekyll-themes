@@ -4,7 +4,7 @@ title: "Elle Kasais's Resume Cards"
 
 ResumeCards is a Markdown based resume generator. It looks great on mobile/desktop and can be saved as PDF.
 
-## :briefcase: Live Demo :briefcase:
+## Live Demo
 
 ### [View Demo and Documentation](http://ellekasai.github.io/resumecards)
 
@@ -14,7 +14,7 @@ You can save it as PDF too:
 
 ![](http://cl.ly/image/091w0b0M2S3G/resume_print_preview.png)
 
-## :briefcase: Installation :briefcase:
+## Installation
 
 **Note:** ResumeCards uses Jekyll. Please read [Jekyll's documentation](http://jekyllrb.com/) if you get stuck.
 
@@ -33,7 +33,7 @@ jekyll serve --watch
 
 * Once the server is started, you must go to [http://localhost:4000/resumecards/](http://localhost:4000/resumecards/), since `baseurl` is set as `"/resumecards"` initially. To use  http://localhost:4000/, change `baseurl` in `_config.yml` to `""` .
 
-## :briefcase: Usage :briefcase:
+## Usage
 
 ### Editing Your Resume
 
@@ -97,7 +97,7 @@ To customize the color theme, edit the `color` section of `_data/resume.yml`.
 #### Green
 ![](http://cl.ly/image/031u3a070V3f/sample_green.png)
 
-## :briefcase: Author & License :briefcase:
+## Author & License
 
 Elle Kasai
 
