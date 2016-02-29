@@ -16,3 +16,16 @@ See the [source repo](https://github.com/hydepress/hydepress.github.io) for how
 the book gets auto-built with "plain" Jekyll - of course - and
 hosted on GitHub Pages.
 
+
+## Sources
+
+See the README for...
+
+to be done
+
+
+
+## Update & Build Notes
+
+to be done
+
