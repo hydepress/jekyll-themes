@@ -1,5 +1,5 @@
 ---
-title: Jekyll Minimial Theme
+title: Henry's Jekyll Minimial Theme
 ---
 
 # What's `jekyll-minimal-theme`?
