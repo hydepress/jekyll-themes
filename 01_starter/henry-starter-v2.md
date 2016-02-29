@@ -1,5 +1,5 @@
 ---
-title: Jekyll Starter Theme V2
+title: Henry's Jekyll Starter Theme V2
 ---
 
 A more "advanced" starter theme, see the 
